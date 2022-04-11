@@ -1,0 +1,11 @@
+<html>
+
+<head>
+	<link href='style.css' rel='stylesheet'>
+</head>
+
+<p>Hello. <br>My Name is...</p>
+
+<img src= "https://upload.wikimedia.org/wikipedia/commons/7/79/2010-brown-bear.jpg" />
+
+</html>
